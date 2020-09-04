@@ -1,4 +1,4 @@
-# PCF-Componenet
+# PCF-Components
 Powerapps Component Framework (PCF) Controls developed by me.
 
 ## Overview
