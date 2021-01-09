@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/GroupDetailList/.vs
+/GroupDetailList/node_modules
+/GroupDetailList/obj
+/GroupDetailList/out/controls/GroupDetailListControl
